@@ -1,0 +1,25 @@
+{
+  "name": "weather-cloud",
+  "version": "1.0.0",
+  "description": "weather cloud lamp api",
+  "main": "app.js",
+  "dependencies": {
+    "forecast": "^0.1.2",
+    "restify": "^2.8.2",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloud",
+    "weather cloud"
+    "api",
+    "spark.io"
+    "arduino",
+    "nodejs"
+  ],
+  "author": "Amalia Viti",
+  "license": "MIT"
+}
